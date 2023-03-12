@@ -21,8 +21,8 @@ retrieval.
 to display the data in an interactive and visually appealing manner.
 
 5. Fetch the data from the MySQL database to display in the dashboard.
-6. 
-7. Provide at least 10 different dropdown options for users to select different
+
+6. Provide at least 10 different dropdown options for users to select different
 facts and figures to display on the dashboard.
 
 The solution must be secure, efficient, and user-friendly. The dashboard must be
