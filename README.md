@@ -77,6 +77,11 @@ Github repository, making it a valuable tool for data analysis and decision-maki
 Overall, the result of this project will be a comprehensive and user-friendly solution
 for extracting, transforming, and visualizing data from the Phonepe pulse Github
 repository.
+![image](https://github.com/Saradhaperumal/PHONEPE-VISUALIZATION/assets/116868444/7308671a-4925-4f50-bc9d-d20def9f93da)
+![image](https://github.com/Saradhaperumal/PHONEPE-VISUALIZATION/assets/116868444/88de172d-6bf4-4209-9577-0ad8ee4750ae)
+![image](https://github.com/Saradhaperumal/PHONEPE-VISUALIZATION/assets/116868444/77764969-6d42-497a-b7a4-aa54ce10b890)
+![image](https://github.com/Saradhaperumal/PHONEPE-VISUALIZATION/assets/116868444/a7a2cf6d-cf3e-44ea-977f-c924e46676d1)
+![image](https://github.com/Saradhaperumal/PHONEPE-VISUALIZATION/assets/116868444/260cfd85-b7d7-4601-a20b-c265b2eaf2bc)
 
 Dataset:
 Dataset Link: Data Link
